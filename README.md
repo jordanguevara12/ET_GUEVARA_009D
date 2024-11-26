@@ -1,7 +1,7 @@
 # Entrega-experiencia-3
 Entrega experiencia 3 Progamacion de aplicaciones moviles
 
-URL DE DEPLY DE DATA
+URL DE DPLOY DE DATA
 https://github.com/jordanguevara12/ApiTestData
 
 DPLOY
